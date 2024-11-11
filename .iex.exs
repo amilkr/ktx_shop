@@ -1,0 +1,1 @@
+:ok = KtxShop.seed()
